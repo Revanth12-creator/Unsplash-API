@@ -1,0 +1,11 @@
+.imageSection img{
+    width: 480px;
+    height: 480px;
+    padding: 10px;
+    margin: 0px;
+    float: left;
+    background-color: white;
+}
+.imageSection{
+    width: 100%;
+} 
